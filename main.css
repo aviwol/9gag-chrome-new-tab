@@ -1,0 +1,19 @@
+body{
+    background-color: #efefef;
+    font-family: Arial; 
+}
+
+h1 {
+    color: #00ADFF;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.9gagcontent {
+    text-align: center;
+    background-color: #efefef;
+}
+
+a{
+    font-size: 20px;
+}
